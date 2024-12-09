@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="BasicShoppingList.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Cart.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Draggable.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="DeleteNotePrompt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProdPurchase.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Produce.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="PurchaseList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RecipeBooklet.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ListBooklet.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ListCreate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProdSale.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="SendToShopperPrompt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Shopper.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShoppingListEdit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShoppingListView.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StickyNote.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="TrashCan.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
