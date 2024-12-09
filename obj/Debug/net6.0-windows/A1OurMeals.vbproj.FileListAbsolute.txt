@@ -1,0 +1,149 @@
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\OurMealsVB\bin\Debug\net6.0-windows\A1OurMeals.exe
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\OurMealsVB\bin\Debug\net6.0-windows\A1OurMeals.deps.json
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\OurMealsVB\bin\Debug\net6.0-windows\A1OurMeals.runtimeconfig.json
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\OurMealsVB\bin\Debug\net6.0-windows\A1OurMeals.dll
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\OurMealsVB\bin\Debug\net6.0-windows\A1OurMeals.pdb
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\OurMealsVB\obj\Debug\net6.0-windows\A1OurMeals.Draggable.resources
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\OurMealsVB\obj\Debug\net6.0-windows\A1OurMeals.Form1.resources
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\OurMealsVB\obj\Debug\net6.0-windows\A1OurMeals.Resources.resources
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\OurMealsVB\obj\Debug\net6.0-windows\A1OurMeals.StickyNote.resources
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\OurMealsVB\obj\Debug\net6.0-windows\A1OurMeals.vbproj.GenerateResource.cache
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\OurMealsVB\obj\Debug\net6.0-windows\A1OurMeals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\OurMealsVB\obj\Debug\net6.0-windows\A1OurMeals.AssemblyInfoInputs.cache
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\OurMealsVB\obj\Debug\net6.0-windows\A1OurMeals.AssemblyInfo.vb
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\OurMealsVB\obj\Debug\net6.0-windows\A1OurMeals.vbproj.CoreCompileInputs.cache
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\OurMealsVB\obj\Debug\net6.0-windows\A1OurMeals.dll
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\OurMealsVB\obj\Debug\net6.0-windows\refint\A1OurMeals.dll
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\OurMealsVB\obj\Debug\net6.0-windows\A1OurMeals.pdb
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\OurMealsVB\obj\Debug\net6.0-windows\A1OurMeals.genruntimeconfig.cache
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\OurMealsVB\obj\Debug\net6.0-windows\ref\A1OurMeals.dll
+C:\Users\Victo\Desktop\Github\A1OurMeals\bin\Debug\net6.0-windows\A1OurMeals.exe
+C:\Users\Victo\Desktop\Github\A1OurMeals\bin\Debug\net6.0-windows\A1OurMeals.deps.json
+C:\Users\Victo\Desktop\Github\A1OurMeals\bin\Debug\net6.0-windows\A1OurMeals.runtimeconfig.json
+C:\Users\Victo\Desktop\Github\A1OurMeals\bin\Debug\net6.0-windows\A1OurMeals.dll
+C:\Users\Victo\Desktop\Github\A1OurMeals\bin\Debug\net6.0-windows\A1OurMeals.pdb
+C:\Users\Victo\Desktop\Github\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.Draggable.resources
+C:\Users\Victo\Desktop\Github\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.Form1.resources
+C:\Users\Victo\Desktop\Github\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.Resources.resources
+C:\Users\Victo\Desktop\Github\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.StickyNote.resources
+C:\Users\Victo\Desktop\Github\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.vbproj.GenerateResource.cache
+C:\Users\Victo\Desktop\Github\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\Desktop\Github\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.AssemblyInfoInputs.cache
+C:\Users\Victo\Desktop\Github\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.AssemblyInfo.vb
+C:\Users\Victo\Desktop\Github\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.vbproj.CoreCompileInputs.cache
+C:\Users\Victo\Desktop\Github\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.dll
+C:\Users\Victo\Desktop\Github\A1OurMeals\obj\Debug\net6.0-windows\refint\A1OurMeals.dll
+C:\Users\Victo\Desktop\Github\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.pdb
+C:\Users\Victo\Desktop\Github\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.genruntimeconfig.cache
+C:\Users\Victo\Desktop\Github\A1OurMeals\obj\Debug\net6.0-windows\ref\A1OurMeals.dll
+C:\Users\Victo\Desktop\Github\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.Produce.resources
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\A1OurMeals\bin\Debug\net6.0-windows\A1OurMeals.exe
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\A1OurMeals\bin\Debug\net6.0-windows\A1OurMeals.deps.json
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\A1OurMeals\bin\Debug\net6.0-windows\A1OurMeals.runtimeconfig.json
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\A1OurMeals\bin\Debug\net6.0-windows\A1OurMeals.dll
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\A1OurMeals\bin\Debug\net6.0-windows\A1OurMeals.pdb
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.Draggable.resources
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.Form1.resources
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.Resources.resources
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.Produce.resources
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.StickyNote.resources
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.vbproj.GenerateResource.cache
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.AssemblyInfoInputs.cache
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.AssemblyInfo.vb
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.vbproj.CoreCompileInputs.cache
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.sourcelink.json
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.dll
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\A1OurMeals\obj\Debug\net6.0-windows\refint\A1OurMeals.dll
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.pdb
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.genruntimeconfig.cache
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\A1OurMeals\obj\Debug\net6.0-windows\ref\A1OurMeals.dll
+\\LORDOFCHEESES-P\A1OurMeals\bin\Debug\net6.0-windows\A1OurMeals.exe
+\\LORDOFCHEESES-P\A1OurMeals\bin\Debug\net6.0-windows\A1OurMeals.deps.json
+\\LORDOFCHEESES-P\A1OurMeals\bin\Debug\net6.0-windows\A1OurMeals.runtimeconfig.json
+\\LORDOFCHEESES-P\A1OurMeals\bin\Debug\net6.0-windows\A1OurMeals.dll
+\\LORDOFCHEESES-P\A1OurMeals\bin\Debug\net6.0-windows\A1OurMeals.pdb
+\\LORDOFCHEESES-P\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.Draggable.resources
+\\LORDOFCHEESES-P\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.Form1.resources
+\\LORDOFCHEESES-P\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.Resources.resources
+\\LORDOFCHEESES-P\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.Produce.resources
+\\LORDOFCHEESES-P\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.ShoppingList.resources
+\\LORDOFCHEESES-P\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.StickyNote.resources
+\\LORDOFCHEESES-P\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.vbproj.GenerateResource.cache
+\\LORDOFCHEESES-P\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.GeneratedMSBuildEditorConfig.editorconfig
+\\LORDOFCHEESES-P\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.AssemblyInfoInputs.cache
+\\LORDOFCHEESES-P\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.AssemblyInfo.vb
+\\LORDOFCHEESES-P\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.vbproj.CoreCompileInputs.cache
+\\LORDOFCHEESES-P\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.sourcelink.json
+\\LORDOFCHEESES-P\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.dll
+\\LORDOFCHEESES-P\A1OurMeals\obj\Debug\net6.0-windows\refint\A1OurMeals.dll
+\\LORDOFCHEESES-P\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.pdb
+\\LORDOFCHEESES-P\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.genruntimeconfig.cache
+\\LORDOFCHEESES-P\A1OurMeals\obj\Debug\net6.0-windows\ref\A1OurMeals.dll
+\\LORDOFCHEESES-P\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.ListBooklet.resources
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.ListBooklet.resources
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.ShoppingListEdit.resources
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.TrashCan.resources
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.ListCreate.resources
+C:\Users\Trang\source\repos\A1OurMeals\bin\Debug\net6.0-windows\A1OurMeals.exe
+C:\Users\Trang\source\repos\A1OurMeals\bin\Debug\net6.0-windows\A1OurMeals.dll
+C:\Users\Trang\source\repos\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.Draggable.resources
+C:\Users\Trang\source\repos\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.Form1.resources
+C:\Users\Trang\source\repos\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.ListBooklet.resources
+C:\Users\Trang\source\repos\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.ListCreate.resources
+C:\Users\Trang\source\repos\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.Resources.resources
+C:\Users\Trang\source\repos\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.Produce.resources
+C:\Users\Trang\source\repos\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.ShoppingListEdit.resources
+C:\Users\Trang\source\repos\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.ShoppingListView.resources
+C:\Users\Trang\source\repos\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.StickyNote.resources
+C:\Users\Trang\source\repos\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.TrashCan.resources
+C:\Users\Trang\source\repos\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.vbproj.GenerateResource.cache
+C:\Users\Trang\source\repos\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trang\source\repos\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.AssemblyInfoInputs.cache
+C:\Users\Trang\source\repos\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.AssemblyInfo.vb
+C:\Users\Trang\source\repos\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.vbproj.CoreCompileInputs.cache
+C:\Users\Trang\source\repos\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.sourcelink.json
+C:\Users\Trang\source\repos\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.dll
+C:\Users\Trang\source\repos\A1OurMeals\obj\Debug\net6.0-windows\refint\A1OurMeals.dll
+C:\Users\Trang\source\repos\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.pdb
+C:\Users\Trang\source\repos\A1OurMeals\bin\Debug\net6.0-windows\A1OurMeals.deps.json
+C:\Users\Trang\source\repos\A1OurMeals\bin\Debug\net6.0-windows\A1OurMeals.runtimeconfig.json
+C:\Users\Trang\source\repos\A1OurMeals\bin\Debug\net6.0-windows\A1OurMeals.pdb
+C:\Users\Trang\source\repos\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.genruntimeconfig.cache
+C:\Users\Trang\source\repos\A1OurMeals\obj\Debug\net6.0-windows\ref\A1OurMeals.dll
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.ShoppingListView.resources
+C:\Users\Victo\Desktop\Github\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.ListBooklet.resources
+C:\Users\Victo\Desktop\Github\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.ListCreate.resources
+C:\Users\Victo\Desktop\Github\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.ShoppingListEdit.resources
+C:\Users\Victo\Desktop\Github\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.ShoppingListView.resources
+C:\Users\Victo\Desktop\Github\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.TrashCan.resources
+C:\Users\Trang\source\repos\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.ProdSale.resources
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.ProdSale.resources
+C:\Users\Victo\Desktop\Github\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.ProdSale.resources
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.DeleteNotePrompt.resources
+C:\Users\Trang\source\repos\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.DeleteNotePrompt.resources
+C:\Users\Victo\Desktop\Github\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.DeleteNotePrompt.resources
+C:\Users\Victo\Desktop\Github\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.Recipes.resources
+C:\Users\Victo\Desktop\Github\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.RecipeBooklet.resources
+C:\Users\Trang\source\repos\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.Recipes.resources
+C:\Users\Trang\source\repos\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.RecipeBooklet.resources
+C:\Users\Trang\source\repos\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.Cart.resources
+C:\Users\Trang\source\repos\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.SendToShopperPrompt.resources
+C:\Users\Trang\source\repos\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.Shopper.resources
+C:\Users\Trang\source\repos\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.BasicShoppingList.resources
+C:\Users\Trang\source\repos\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.PurchaseList.resources
+C:\Users\Trang\source\repos\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.ProdPurchase.resources
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.BasicShoppingList.resources
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.Cart.resources
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.Recipes.resources
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.ProdPurchase.resources
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.PurchaseList.resources
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.RecipeBooklet.resources
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.SendToShopperPrompt.resources
+C:\Users\dodoy\Desktop\Code\Uni course archive\CPS 613\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.Shopper.resources
+C:\Users\Victo\Desktop\Github\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.BasicShoppingList.resources
+C:\Users\Victo\Desktop\Github\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.Cart.resources
+C:\Users\Victo\Desktop\Github\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.ProdPurchase.resources
+C:\Users\Victo\Desktop\Github\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.PurchaseList.resources
+C:\Users\Victo\Desktop\Github\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.SendToShopperPrompt.resources
+C:\Users\Victo\Desktop\Github\A1OurMeals\obj\Debug\net6.0-windows\A1OurMeals.Shopper.resources
