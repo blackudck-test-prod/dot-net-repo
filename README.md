@@ -1,5 +1,15 @@
 # 🍽️ OurMeals - Smart Shopping and Meal Planning App
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Built%20With-VB.NET-blueviolet?style=for-the-badge&logo=visual-studio" alt="Built with VB.NET" />
+  <img src="https://img.shields.io/badge/Framework-.NET%206.0-blue?style=for-the-badge&logo=dotnet" alt=".NET 6.0" />
+  <img src="https://img.shields.io/badge/Windows%20Forms-GUI-lightgrey?style=for-the-badge&logo=windows" alt="Windows Forms" />
+  <img src="https://img.shields.io/badge/Platform-Windows-0078D7?style=for-the-badge&logo=windows" alt="Windows" />
+  <img src="https://img.shields.io/badge/Category-Productivity%20App-yellowgreen?style=for-the-badge" alt="Productivity App" />
+  <img src="https://img.shields.io/badge/Made%20With-%E2%9D%A4-red?style=for-the-badge" alt="Made with Love" />
+</p>
+
+
 Welcome to **OurMeals**, a smart, user-friendly **Windows desktop application** built with **Visual Basic .NET**.  
 Manage your household groceries, shopping lists, sticky notes, and recipes effortlessly — all in one place! 🛒📋
 
