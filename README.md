@@ -48,7 +48,7 @@ With intuitive UI components like **Sticky Notes**, **Recipe Booklets**, and **D
 
 ## 🖼️ Screenshots
 
-> 📸 *(Add screenshots here if you have images under `Images/` folder!)*
+
 
 Example placeholders:
 - Home Dashboard
