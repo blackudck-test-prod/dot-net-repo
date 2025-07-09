@@ -11,7 +11,7 @@
 
 
 Welcome to **OurMeals**, a smart, user-friendly **Windows desktop application** built with **Visual Basic .NET**.  
-Manage your household groceries, shopping lists, sticky notes, and recipes effortlessly — all in onet place! 🛒📋
+Manage your household groceries, shopping lists, sticky notes, and recipes effortlessly — all in onet ptlace! 🛒📋
 
 ---
 
